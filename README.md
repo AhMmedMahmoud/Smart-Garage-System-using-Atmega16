@@ -10,7 +10,7 @@ There are  two PIR sensors, one at the entrance and the other at exit gate.
 the new number of cars inside garage is displayed on lcd and whether entry is available or not By the number of cars inside.
 - If there isnot an empty space, number of cars inside garage and "Garage is Full" are displayed on lcd.
 
-2- if a car approaches the sensor of the exit gate, servo motor is rotated at an angle of + 90 ° in order to raise the metal barrier and open the road for 2sec until the car comes out.after 2sec servo is rotated at -90 ° in orde to descend the metal barrier and close the road.
+2- if a car approaches the sensor of the exit gate, servo motor is rotated at an angle of + 90 ° in order to raise the metal barrier and open the road for 2sec until the car comes out. after 2sec servo is rotated at -90 ° in orde to descend the metal barrier and close the road.
 the new number of cars inside garage is displayed on lcd and so on..
 
 ## Simulation
