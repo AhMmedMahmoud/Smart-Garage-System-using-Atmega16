@@ -1,7 +1,7 @@
 # Smart-Garage-System-using-Atmega16
 This project was written in C using Microchip Studio and Proteus 8 professional.
 ## Aim
-manage entry and exit from the garage where the entrance and exit gate is closed with a rotating metal barrier
+simulate the embedded controller at a smart garage system
 ## Procedure Details
 There are  two PIR sensors, one at the entrance and the other at exit gate.
 
