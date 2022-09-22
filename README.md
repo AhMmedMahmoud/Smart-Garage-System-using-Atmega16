@@ -4,6 +4,7 @@ This project was written in C using Microchip Studio and Proteus 8 professional.
 manage entry and exit from the garage where the entrance and exit gate is closed with a rotating metal barrier
 ## Procedure Details
 There are  two PIR sensors, one at the entrance and the other at exit gate.
+
 1- if a car approaches the sensor of the entrance gate, microcontroller checks the number of cars inside the garage (because the garage capacity is only 3 cars) 
 - If an empty space is found, servo motor is rotated by +90 ° in order to raise the metal barrier and open the road for 2sec util the car gets in completely. after 2sec servo is rotated at-90 ° in order to close The road.
 the new number of cars inside garage is displayed on lcd and whether entry is available or not By the number of cars inside.
