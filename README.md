@@ -16,3 +16,6 @@ the new number of cars inside garage and "Enter is allowed" are displayed on lcd
 
 ## Simulation
 ![proteus simulation](https://user-images.githubusercontent.com/104006521/191812755-5d613402-7b22-495b-9ffb-6d22d6e189d0.png)
+
+## Zip file 
+[here](https://drive.google.com/file/d/1PCYbPR-aVwK0D4VCO-fg8L83dVmN6qBI/view?usp=sharing)
